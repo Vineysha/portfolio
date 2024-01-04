@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Aplication URL: http://127.0.0.1:5501/index.html
+Aplication URL: https://vineysha.github.io/portfolio/
 
 In a desktop layout you'll be presented with my profile and a side menu with three options. You can scroll down to see all of my information or you can click on any of the menu options so it can take you to a specific section. There is also a mini github logo under my picture that will take you to my github profile.
 ![Desktop layout](https://github.com/Vineysha/portfolio/assets/88559904/cc1338be-d24a-4148-ac12-260cd5cb8c7b)
